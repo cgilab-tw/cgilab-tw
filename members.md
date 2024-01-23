@@ -112,4 +112,4 @@
 |       藍立呈       | 2018.05 - 2019.08          |
 |       吳慈仁       | 2017.09 - 2018.12          |
 
-[cgilab]: https://cgilab.nctu.edu.tw/
+[cgilab]: https://cgilab-tw.github.io/
