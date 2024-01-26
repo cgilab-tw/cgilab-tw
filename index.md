@@ -31,4 +31,4 @@
 [publications]: https://icwu307.github.io/publications.html
 [research]: https://icwu307.github.io/research.html
 [course]: https://icwu307.github.io/courses.html
-[honors]: https://icwu307.github.io/icwu.github.io/honors.html
+[honors]: https://icwu307.github.io/honors.html
