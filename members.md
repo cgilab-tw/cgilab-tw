@@ -2,7 +2,7 @@
 
 | Advisor   |               | Email                 | 教授資訊                          |
 | --------- | ------------- | --------------------- | --------------------------------- |
-| Professor | 吳毅成 (icwu) | icwu@csie.nctu.edu.tw | https://cgilab.nctu.edu.tw/~icwu/ |
+| Professor | 吳毅成 (icwu) | icwu@csie.nctu.edu.tw | https://icwu307.github.io |
 
 ## Graduate Students
 
