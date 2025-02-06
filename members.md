@@ -2,13 +2,12 @@
 
 | Advisor   |               | Email                 | 教授資訊                          |
 | --------- | ------------- | --------------------- | --------------------------------- |
-| Professor | 吳毅成 (icwu) | icwu@csie.nctu.edu.tw | https://icwu307.github.io |
+| Professor | 吳毅成 (icwu) | icwu@cs.nycu.edu.tw | https://cgilab.nctu.edu.tw/~icwu/ |
 
 ## Graduate Students
 
 |  Ph.D. Students  | Email                  |
 | :--------------: | ---------------------- |
-|      唐士傑      | fight5566jay@gmail.com |
 |      何國豪      | lukewayne123@gmail.com |
 |      林九州      | dsobscure@outlook.com  |
 |      顧聞博      | GWENBO@gmail.com       |
@@ -20,22 +19,22 @@
 
 | Master Students | Email                      |
 | :-------------: | -------------------------- |
-|     李政毅      | franklp97531@gmail.com     |
-|     施囿維      | neoyuki.cs06@nctu.edu.tw   |
 |     李駿逸      | gcobs070796@gmail.com      |
-|     桃公信      | dcongtinh@gmail.com        |
 |     蔡金玲      | linn708682@gmail.com       |
 |     林其璜      | luke123132112@gmail.com    |
-|     鄭睿宇      | rayy.11@nycu.edu.tw        |
-|     廖唯辰      | wcl.cs07@nycu.edu.tw       |
-|     彭沛鈞      | lollypeng100@gmail.com     |
-|     陳昱丞      | yucheng881111@gmail.com    |
-|     黃柏維      | alex10101025@gmail.com     |
 |     邱恆毅      | 5542045aa@gmail.com        |
 |     王瑞渝      | rabbit922w@gmail.com       |
 |     蔡昀叡      | b08202011.cs12@nycu.edu.tw |
 |     陳建樺      | x21530317x@gmail.com       |
 |     張孝全      | zekeabc@gmail.com          |
+|     李任本耀    | bod.lee.ee13@nycu.edu.tw   |
+|     羅凱威      | a23202418@gmail.com        |
+|     郭建廷      | gjt.cs13@nycu.edu.tw       |
+|     楊右宇      | royyang901203@gmail.com    |
+|     李謙蓉      | vicki122334567@gmail.com   |
+|     黃竑睿      | rayhuang0901.cs13@nycu.edu.tw |
+|     黃聖祐      | shengyouhuang620@gmail.com    |
+|     張子中      | david97099@gmail.com       |
 
 ## Alumni (in graduate years; including on-the-job program)
 
@@ -53,8 +52,9 @@
 |      2020      | 吳廸融 | 中研院資訊所助研究員                |
 |      2021      | 胡凱鈞 | 聯發科                              |
 |      2022      |  桂浤  | 中研院資訊所博士後研究員            |
-|      2023      | Cao Hoang Giang | 明志科技大學博士後研究員兼任助理教授                |
+|      2023      | Cao Hoang Giang | 明志科技大學助理教授                |
 |      2023      |  施仲晉  | 中研院資訊所博士後研究員            |
+|      2025      |  唐士傑  | N.A.                              |
 
 | Master's Student |        |        |        |        |          |                 |                 |                  |        |
 | :--------------: | :----: | :----: | :----: | :----: | :------: | :-------------: | :-------------: | :--------------: | :----: |
@@ -86,7 +86,8 @@
 |       2020       | 林侑萱 | 楊子頤 | 朱詠嘉 | 陳源灝 |  洪忠駿  |    黃日明\*     | Huynh Nhat Minh |                  |
 |       2021       | 鄭余玄 | 吳士瑋 | 蔡孟宇 | 巫垣佑 |  陳冠文  |     劉良甫      |    阮世聰\*     | Nguyen The Thong |
 |       2022       | 許博鈞 |  江凡  | 鄭紹雄 | 高誌佑 |  郭奎廷  |     巫佶翰      |     徐玉山      |                  |        |
-|       2023       | 陳俊融 | 戴宏明 |  李頤  | 秦睿德 |  吳岱霖        |   宋得榮    |                 |                  |        |
+|       2023       | 陳俊融 | 戴宏明 |  李頤  | 秦睿德 |  吳岱霖  |   宋得榮    |   李政毅     |   施囿維    |  桃公信   |
+|       2024       | 鄭睿宇 | 廖唯辰 | 彭沛鈞 | 陳昱丞 | 黃柏維 |      |      |      |      |
 
 ## Assistant
 
@@ -96,8 +97,9 @@
 
 | Research Assistant | Period                     |
 | :----------------: | -------------------------- |
-|        吳岱霖        | 2023.10 - present (中研院)         |
-|        江凡        | 2023.07 - present          |
+|       黃柏維        | 2025.01 - 2025.04         |
+|       吳岱霖        | 2023.10 - 2024.05         |
+|        江凡        | 2023.07 - 2024.06          |
 |       陳彥吉       | 2021.01 - present (中研院) |
 |       何國豪       | 2018.04 - present          |
 |       巫佶翰       | 2023.01 - 2023.08          |
