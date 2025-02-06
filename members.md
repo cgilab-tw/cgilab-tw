@@ -46,13 +46,13 @@
 |      2010      | 林秉宏 | 國家實驗研究院                      |
 |      2013      | 林宏軒 | 台達電(前工研院)                    |
 |      2013      | 單益章 | 基隆市立暖暖高級中學校長            |
-|      2018      | 魏廷翰 | Postdoctoral Scholar, U. of Alberta |
-|      2019      | 薛筑軒 | Assistant Professor, JAIST, Japan   |
+|      2018      | 魏廷翰 | Full Professor, Kochi University of Technology, Japan |
+|      2019      | 薛筑軒 | Senior Lecturer (Junior Associate Professor), JAIST, Japan |
 |      2020      | 曾汶傑 | 倍靈科技                            |
 |      2020      | 吳廸融 | 中研院資訊所助研究員                |
 |      2021      | 胡凱鈞 | 聯發科                              |
 |      2022      |  桂浤  | 中研院資訊所博士後研究員            |
-|      2023      | Cao Hoang Giang | 明志科技大學助理教授                |
+|      2023      | Cao Hoang Giang | 明志科技大學助理教授        |
 |      2023      |  施仲晉  | 中研院資訊所博士後研究員            |
 |      2025      |  唐士傑  | N.A.                              |
 
